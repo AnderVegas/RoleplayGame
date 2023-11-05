@@ -1,1 +1,0 @@
-vfdw | Intentos: 1 | Tiempo: 6.257767677307129 | Conseguido en el Modo Debug
